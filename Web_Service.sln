@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_Service", "Web_Service\Web_Service.csproj", "{91561DB9-219A-4C7D-8370-B8440A77B4FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelcomeRESTJSONClient", "WelcomeRESTXMLClient\WelcomeRESTJSONClient.csproj", "{9EA71734-767F-4AD8-AA77-CB7223611073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91561DB9-219A-4C7D-8370-B8440A77B4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91561DB9-219A-4C7D-8370-B8440A77B4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91561DB9-219A-4C7D-8370-B8440A77B4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91561DB9-219A-4C7D-8370-B8440A77B4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA71734-767F-4AD8-AA77-CB7223611073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA71734-767F-4AD8-AA77-CB7223611073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA71734-767F-4AD8-AA77-CB7223611073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA71734-767F-4AD8-AA77-CB7223611073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91C419F8-E771-4002-848F-F0A217341F94}
+	EndGlobalSection
+EndGlobal
